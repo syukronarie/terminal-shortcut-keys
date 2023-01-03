@@ -41,12 +41,12 @@
 ## Miscellaneous
 
 - `Tab`: Autocomplete a command or file name
+- `Ctrl+i`: Command completion like Tab
 - `Ctrl+l`: Clear the terminal
 - `Ctrl+c`: Terminate the current command
 - `Ctrl+z`: Suspend the current command
 - `Ctrl+y`: Paste the last deleted command
 - `Ctrl+\_`: Undo
-- `Ctrl+i`: Command completion like Tab
 - `Ctrl+shift+c`: Copy selected text
 - `Ctrl+shift+v`: Paste copied text
 - `Ctrl+t`: Swap two characters before the cursor
