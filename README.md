@@ -2,20 +2,20 @@
 
 ## Movement & Deletions
 
-| Movement                                 | Deletion                                               |
-| ---------------------------------------- | ------------------------------------------------------ |
-| `Ctrl+a`: Move cursor to start of line   | - `Ctrl+w`: Delete word before cursor                  |
-| `Ctrl+e`: Move cursor to end of line     | - `Ctrl+h`: Delete character before cursor             |
-| `Ctrl+b`: Move back one character        | - `Ctrl+d`: Delete character after cursor              |
-| `Ctrl+f`: Move forward one character     | - `Ctrl+u`: Delete everything before the cursor        |
-| `Left`: Move back one character          | - `Ctrl+k`: Delete everything after the cursor         |
-| `Right`: Move forward one character      | - `Backspace`: Delete character before cursor          |
-| `Alt/Opt+Left`: Move back one word       | - `Alt/Opt+Backspace`: Delete word before cursor       |
-| `Alt/Opt+Right`: Move forward one word   | - `Alt/Opt+w`: Delete word before the cursor           |
-| `Alt/Opt+b`: Move back one word          | - `Alt/Opt+d`: Delete word after the cursor            |
-| `Alt/Opt+f`: Move forward one word       | - `Cmd+Backspace`: Delete everything before the cursor |
-| `Cmd+Left`: Move cursor to start of line |                                                        |
-| `Cmd+Right`: Move cursor to end of line  |                                                        |
+| Movement                                 | Deletion                                             |
+| ---------------------------------------- | ---------------------------------------------------- |
+| `Ctrl+a`: Move cursor to start of line   | `Ctrl+w`: Delete word before cursor                  |
+| `Ctrl+e`: Move cursor to end of line     | `Ctrl+h`: Delete character before cursor             |
+| `Ctrl+b`: Move back one character        | `Ctrl+d`: Delete character after cursor              |
+| `Ctrl+f`: Move forward one character     | `Ctrl+u`: Delete everything before the cursor        |
+| `Left`: Move back one character          | `Ctrl+k`: Delete everything after the cursor         |
+| `Right`: Move forward one character      | `Backspace`: Delete character before cursor          |
+| `Alt/Opt+Left`: Move back one word       | `Alt/Opt+Backspace`: Delete word before cursor       |
+| `Alt/Opt+Right`: Move forward one word   | `Alt/Opt+w`: Delete word before the cursor           |
+| `Alt/Opt+b`: Move back one word          | `Alt/Opt+d`: Delete word after the cursor            |
+| `Alt/Opt+f`: Move forward one word       | `Cmd+Backspace`: Delete everything before the cursor |
+| `Cmd+Left`: Move cursor to start of line |                                                      |
+| `Cmd+Right`: Move cursor to end of line  |                                                      |
 
 ## History & Miscellaneous
 
