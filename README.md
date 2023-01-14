@@ -33,3 +33,4 @@
 | `Ctrl+t`: Swap two characters before the cursor |                                                                   |
 | `Esc+t`: Swap two words before the cursor       |                                                                   |
 | `Ctrl+o`: Execute current command               |                                                                   |
+
